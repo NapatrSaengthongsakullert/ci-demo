@@ -1,6 +1,6 @@
 Continuous Integration Demo
 ===========================
-
+[![Check flake8](https://github.com/NapatrSaengthongsakullert/ci-demo/actions/workflows/flake8checking.yml/badge.svg)](https://github.com/NapatrSaengthongsakullert/ci-demo/actions/workflows/flake8checking.yml)
 This project demonstrates use of Github Actions to build and test a Python project.  
 
 ## Automatic Testing
